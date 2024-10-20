@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Voos 🖐
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-e-voos-6688652a1/)
-[![Social](    https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/duvoos)
+
   
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Duvoos&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duvoos&layout=compact)
